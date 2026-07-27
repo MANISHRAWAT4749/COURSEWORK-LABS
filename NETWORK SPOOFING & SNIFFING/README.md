@@ -5,6 +5,7 @@ bettercap. Perform Below operation
 
 Command 1 - Selecting the interface of wlan0 i.e Wi-Fi. 
 bettercap  -iface wlan0 
+<img width="940" height="96" alt="image" src="https://github.com/user-attachments/assets/1c85dafc-f929-436b-af16-c0b21b2662f0" />
 
 Command 2 – this command shows all the devices that are connected 
 to the same network 
