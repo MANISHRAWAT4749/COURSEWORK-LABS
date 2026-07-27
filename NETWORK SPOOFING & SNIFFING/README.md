@@ -3,7 +3,8 @@ bettercap. Perform Below operation
 1)Capturing packets 
 2)show the data being captured of HTTP protocol 
 
-Command 1 - Selecting the interface of wlan0 i.e Wi-Fi. 
+Command 1 - Selecting the interface of wlan0  i.e Wi-Fi. 
+
 bettercap  -iface wlan0 
 <img width="940" height="96" alt="image" src="https://github.com/user-attachments/assets/1c85dafc-f929-436b-af16-c0b21b2662f0" />
 
