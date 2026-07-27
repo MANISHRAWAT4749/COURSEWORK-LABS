@@ -8,16 +8,21 @@ Command 1 - Selecting the interface of wlan0  i.e Wi-Fi.
 bettercap  -iface wlan0 
 <img width="940" height="96" alt="image" src="https://github.com/user-attachments/assets/1c85dafc-f929-436b-af16-c0b21b2662f0" />
 
+
 Command 2 – this command shows all the devices that are connected 
 to the same network 
+
 net.show 
+
 <img width="940" height="192" alt="image" src="https://github.com/user-attachments/assets/1fee3f8a-46d9-442d-89f4-da0535609183" />
 
-Command 3–help provides with the Modules of bettercap with their status  
+Command 3–
+help  :- provides with the Modules of bettercap with their status  
 <img width="508" height="889" alt="image" src="https://github.com/user-attachments/assets/0128f500-8065-49e3-b482-c59141740f39" />
 
 
-Command 4- net.probe on 
+Command 4 -  net.probe on 
+
 This will send various probe packets to each IP in order and in the present subnet
 <img width="940" height="81" alt="image" src="https://github.com/user-attachments/assets/bd171025-8f9f-4ba0-998b-5eb68ae87891" />
 
