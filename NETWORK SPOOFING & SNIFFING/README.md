@@ -16,6 +16,7 @@ net.show
 
 <img width="940" height="192" alt="image" src="https://github.com/user-attachments/assets/1fee3f8a-46d9-442d-89f4-da0535609183" />
 
+
 Command 3–
 help  :- provides with the Modules of bettercap with their status  
 <img width="508" height="889" alt="image" src="https://github.com/user-attachments/assets/0128f500-8065-49e3-b482-c59141740f39" />
