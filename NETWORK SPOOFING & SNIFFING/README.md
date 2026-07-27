@@ -23,10 +23,13 @@ Command 6- set arp.spoof.targets 192.168.43.77(IP address of the
 target Device) 
 Set the target to the IP you can add any number of IPs here by using “,”. For 
 example 192.168.43.77 
+
 Command 7-set arp.spoof on 
-Start the ARP spoofer  
+Start the ARP spoofer 
+
 Command 8- set net.sniff.local true 
 Setting it to true will consider packets from/to this computer, otherwise it will skip 
 them. 
+
 Command 9 - net.sniff on 
 Turning on the sniffing and catching the packets. 
