@@ -3,12 +3,15 @@
 Step 1: Check Available Wireless Adapter 
 ● Use the following command to check for available wireless adapters: 
 iwconfig 
+
 Step 2: Put Down the Wireless Adapter 
 ● To prepare the adapter for monitor mode, put it down: 
 ifconfig wlan0 down 
+
 Step 3: Kill Conflicting Processes 
 ● Ensure that no conflicting processes are running: 
 airmon-ng check kill 
+
 Step 4: Change Adapter Mode to Monitor 
 ● Change the mode of your wireless adapter to monitor mode: 
 iwconfig wlan0 mode monitor 
