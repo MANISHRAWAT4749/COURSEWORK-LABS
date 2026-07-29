@@ -10,11 +10,14 @@ Step 2:put the password hash in a text file
 Type the following command : 
 $zip2john GradedLab1.zip > hash121.txt 
 
+
 Followed by: 
 $John hash.txt 
 
 The command above initiates John the Ripper, a proficient password cracking 
-tool.   
+tool.  
+![Uploading image.png…]()
+
 
 The txt file contains the message:
 
