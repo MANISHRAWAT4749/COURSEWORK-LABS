@@ -7,8 +7,11 @@ command:
 $zip2john GradedLab1.zip 
 
 Step 2:put the password hash in a text file 
+
+
 Type the following command : 
 $zip2john GradedLab1.zip > hash121.txt 
+<img width="940" height="156" alt="image" src="https://github.com/user-attachments/assets/77e8ef8b-67c9-4217-8df8-06ece57d0dd1" />
 
 
 Followed by: 
@@ -16,7 +19,8 @@ $John hash.txt
 
 The command above initiates John the Ripper, a proficient password cracking 
 tool.  
-![Uploading image.png…]()
+<img width="940" height="635" alt="image" src="https://github.com/user-attachments/assets/3c813a22-ba0a-4602-87c3-a506e2fe2770" />
+
 
 
 The txt file contains the message:
