@@ -15,4 +15,7 @@ $John hash.txt
 
 The command above initiates John the Ripper, a proficient password cracking 
 tool.   
+
 The txt file contains the message:
+
+<img width="812" height="251" alt="image" src="https://github.com/user-attachments/assets/59e988aa-e25a-4ab5-8a5d-9fe41e1a2350" />
