@@ -10,6 +10,7 @@ $zip2john GradedLab1.zip
 <img width="940" height="216" alt="image" src="https://github.com/user-attachments/assets/fcdce934-bc2d-4263-9e4b-b37a80743af5" />
 
 
+
 Step 2:put the password hash in a text file 
 
 
